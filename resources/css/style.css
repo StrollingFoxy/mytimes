@@ -1,0 +1,137 @@
+
+
+
+.header {
+	display: flex;
+	font-family: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+	align-items: center;
+	position: fixed;
+	width: 100%;
+	height: 80px;
+	padding-right: 40px;
+	border-bottom: 1px solid black;
+	z-index: 1;
+	background: white;
+
+}
+
+.logo span { 
+
+	color: MediumAquaMarine; 
+	padding: 20px;
+	width: 72px;
+	height: 17px;
+	align-items: center;
+
+
+}
+
+.logo {
+
+	width: 593px
+	height: 73px;
+	padding-left: 30px;
+	
+}
+
+nav span {
+  	
+  	padding: 20px 10px;
+  	width: 50px;
+  	display: inline-block;
+  	justify-content: flex-end: 
+  	flex-grow: 2;
+ }
+
+
+
+
+.content {
+
+	display: flex;
+	padding-top: 116px;
+	border: 1px solid black;
+	margin: 40px;
+	width: 1200;
+	height: 800px;
+	align-items: stretch;
+	
+
+	
+}
+
+.columnlarge {
+
+	
+	width: 630px;
+	border: solid black;
+	margin: 10px;
+	
+	
+	
+	}
+
+.main-story {
+
+	border: solid black;
+}
+
+span .headline {
+
+	border: solid black;
+}
+
+.stories {
+
+	border: solid black;
+}
+
+.story1 {
+
+	border: solid black;
+}
+
+.copy {
+
+	border: solid black;
+}
+
+h3  {
+
+	border: solid black;
+}
+
+.Earth-spins  {
+
+	border:solid black;
+}
+
+.erase-memory  {
+
+	border:  solid black;
+}
+
+.columnmedium {
+
+	
+	border: 1px solid black;
+	width:300px;
+	margin: 0 auto;
+	align-content: stretch;
+	
+	
+	
+}
+
+.columnsmall  {
+
+	
+	border: 1px solid black;
+	width: 240px;
+	margin: auto;
+
+	
+
+	}

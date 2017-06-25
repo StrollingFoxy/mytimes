@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"inli",
+				"inline-flex"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"con",
+				"justify-content"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"row",
+				"row-reverse"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"text-ali",
+				"text-align"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font-fa",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/wildrover/My Times/resources/css/style.css",
+		"/C/Users/wildrover/My Times/index.html",
+		"/C/Users/wildrover/My Times/html.index",
+		"/C/Users/wildrover/My Times/style.css",
+		"/C/Users/wildrover/broadway2/resources/css/style.css",
+		"/C/Users/wildrover/broadway2/style.css",
+		"/C/Projects/Two Sandals/index.html",
+		"/C/Users/wildrover/excursion/index.html",
+		"/C/Users/wildrover/broadway/style.css",
+		"/C/Users/wildrover/broadway/index.html",
+		"/C/Users/wildrover/Projects/broadway/index.html",
+		"/C/Users/wildrover/Projects/broadway/resources/css/style.css",
+		"/C/Users/wildrover/Projects/Broadway/broadway/index.html",
+		"/C/Users/wildrover/excursion/index.sublime-workspace",
+		"/C/Users/wildrover/excursion/resources/css/style.css",
+		"/C/Projects/DasmotosArts/index.html",
+		"/C/Projects/DasmotosArts/resources/css/style.css",
+		"/C/Projects/DasmotosArts/resources/finnish.jpeg",
+		"/C/Projects/DasmotosArts/resources/style.css",
+		"/C/Projects/DasmotosArts/html.index",
+		"/C/Projects/BeachParadise/style.css",
+		"/C/Projects/BeachParadise/index.html",
+		"/C/Projects/BeachParadise/css/style.css",
+		"/C/Projects/Paris/index.html",
+		"/C/Projects/BeachParadise/index.css",
+		"/C/Projects/BeachParadise/html.index.html",
+		"/C/Projects/DevProject/css/index.css",
+		"/C/Projects/DevProject/index.html",
+		"/C/Projects/DevProject/css/index.css.css",
+		"/C/Projects/DevProject/index.css",
+		"/C/Projects/Resources/css/index.css",
+		"/C/Projects/Resources/css/index.html",
+		"/C/Projects/index.css",
+		"/C/Projects/index.html",
+		"/C/Projects/Two Sandals/home.html",
+		"/C/Projects/Paris/index.html/index.html",
+		"/C/Projects/HelloHtml/html",
+		"/C/Projects/HelloHtml/index.html",
+		"/C/Projects/Hello World/hello world test.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

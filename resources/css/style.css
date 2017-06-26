@@ -59,18 +59,31 @@ nav span {
   width: 1232px;
   margin: 0 auto 78px auto;
   padding-top: 116px;
-}
+
 }
 
+.column {
+
+	display: flex;
+	flex-direction: column;
+	margin-right: 32px;
 	
+
+
+
+
+
 }
 
-.columnlarge {
+
+.column .large {
 
 	
 	width: 630px;
 	border: solid black;
 	margin: 10px;
+
+
 	
 	
 	
@@ -81,9 +94,24 @@ nav span {
 	border: solid black;
 }
 
+.main-story .headline {
+
+	display: flex;
+	background-image: url("../images/img-story-main.png");
+	font-family: Georgia;
+  	font-weight: bold;
+  	font-size: 40px;
+  	color: white;
+  	height: 300px;
+	
+}
+
+
 span .headline {
 
+	
 	border: solid black;
+
 }
 
 .stories {
@@ -116,24 +144,27 @@ h3  {
 	border:  solid black;
 }
 
-.columnmedium {
+.column .medium {
 
 	
 	border: 1px solid black;
 	width:300px;
 	margin: 0 auto;
-	align-content: stretch;
+	flex-grow: stretch;
+	
 	
 	
 	
 }
 
-.columnsmall  {
+.column .small  {
 
 	
 	border: 1px solid black;
 	width: 240px;
 	margin: 0 auto;
+	flex-grow: stretch;
+
 
 	
 

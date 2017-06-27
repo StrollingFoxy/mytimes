@@ -78,10 +78,6 @@ nav span {
 	
 	}
 
-.lead-story {
-
-
-}
 
 .image1 span {
 
@@ -89,8 +85,7 @@ nav span {
   	font-weight: bold;
   	font-size: 40px;
   	color: white;
-  	
-  
+  	  
 }
 
 .image1 {
@@ -105,11 +100,10 @@ nav span {
 
 	display: flex;
 	justify-content: space-between;
+	padding: 10px;
 }
 
-
 	
-
 
 .article .story1 {
 
@@ -181,24 +175,27 @@ h3  {
 .column .medium {
 
 	
-	border: 1px solid black;
 	width:300px;
 	margin: 0 auto;
 	display: flex;
-	flex-direction: column;
-	
+	flex-direction: column;	
 		
 }
 
 .cats	{
 
-	border: 1px solid black;
 	background-image: url("../images/img-story-1.png");
+	height: 300px;
+	text-align: center;
+		
+}
+
+.image-text3 span {
+
 	font-family: Georgia;
   	font-weight: bold;
   	font-size: 30px;
  	color: white;
- 	height: 300px;
 }
 
 .column .small  {
